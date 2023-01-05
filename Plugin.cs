@@ -4,7 +4,7 @@ using BepInEx;
 using HarmonyLib;
 using UnityEngine;
 
-namespace QuatroMod
+namespace CardChances
 {
     [BepInPlugin(PluginInfo.PLUGIN_GUID, PluginInfo.PLUGIN_NAME, PluginInfo.PLUGIN_VERSION)]
     public class Plugin : BaseUnityPlugin
